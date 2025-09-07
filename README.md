@@ -99,25 +99,6 @@ Optional: Update Airtable status to “Active” and store signed document links
 
 <img width="955" height="422" alt="image" src="https://github.com/user-attachments/assets/5ffdbcea-e004-4406-ade5-9c63e4d26be7" />
 
-📄 Sample Contract Template Used
-
-A simple Vendor Services Agreement with fields like:
-
-Contract Title
-
-Vendor Name
-
-Start & End Dates
-
-Payment terms
-
-Compliance & confidentiality clauses
-
-Signature placeholders for both parties
-
-📸 Screenshot Placeholder – DocuSign Template
-
-![DocuSign Template](path-to-your-screenshot.png)
 
 🚀 Learnings & Takeaways
 
@@ -139,14 +120,4 @@ Implement multi-stage approvals or conditional workflows
 
 Explore Airtable scripting for advanced logic if needed
 
-📂 How to Use This Project
 
-Duplicate the Airtable base in your workspace
-
-Upload the sample contract template to DocuSign
-
-Set up Zapier with Airtable and DocuSign using the instructions provided
-
-Test workflows with sample data
-
-Customize fields and views based on your organization’s needs
