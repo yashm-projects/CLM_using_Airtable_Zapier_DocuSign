@@ -81,7 +81,8 @@ Action: Change contract status to “Expired” automatically
 
 📸 Screenshot Placeholder – Automation Setup
 
-![Airtable Automations](path-to-your-screenshot.png)
+<img width="955" height="417" alt="image" src="https://github.com/user-attachments/assets/815cb128-0b98-435b-921e-105836886406" />
+
 
 🔗 Zapier Integration – Airtable → DocuSign
 ✅ Workflow Summary
