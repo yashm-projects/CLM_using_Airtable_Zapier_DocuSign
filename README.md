@@ -1,6 +1,7 @@
 📂 Contract Lifecycle Management (CLM) with Airtable & Zapier
-⚠ Disclaimer
 
+
+**⚠ Disclaimer**
 All data, documents, vendor details, and contract examples in this project are dummy/sample data created for learning and demonstration purposes only. This setup is not intended for use with real contracts or sensitive information without proper validation and security measures.
 
 ✅ Project Overview
