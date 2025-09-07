@@ -21,6 +21,7 @@ The solution helps organizations manage contract creation, approval workflows, t
 ✔ Documentation and training-ready interfaces to improve adoption
 
 🗂 Airtable Base Structure
+
 ✅ Tables Created
 
 Vendors
@@ -45,6 +46,7 @@ Fields: Approval ID (Auto-number), Contract (linked), Approver Name, Approval St
 
 
 📊 Interface Designer Setup
+
 ✅ Contract Dashboard
 
 Views by contract status
@@ -62,6 +64,7 @@ Pending approvals filtered for quick action
 
 
 ⚙ Airtable Automations Implemented
+
 ✅ Approval Request Automation
 
 Trigger: Contract status updated to “Approved”
@@ -86,6 +89,7 @@ Action: Change contract status to “Expired” automatically
 
 
 🔗 Zapier Integration – Airtable → DocuSign
+
 ✅ Workflow Summary
 
 Trigger: When a contract is approved in Airtable.
